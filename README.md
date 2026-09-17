@@ -8,6 +8,7 @@
 
 - [برنامه پروژه و معماری نرم‌افزار](docs/PROGRAM_PLAN.fa.md)
 - [ارزیابی ساخت BCN3D Moveo و برنامه Moveo-M](docs/MOVEO_EVALUATION.fa.md)
+- [طرح تغییر شانه با دو NEMA17 و گیربکس](docs/MOVEO_SHOULDER_ADAPTATION.fa.md)
 
 ## تصمیم فعلی پروژه
 
