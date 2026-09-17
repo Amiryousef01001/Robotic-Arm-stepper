@@ -7,6 +7,7 @@
 ## سند شروع
 
 - [برنامه پروژه و معماری نرم‌افزار](docs/PROGRAM_PLAN.fa.md)
+- [ارزیابی ساخت BCN3D Moveo و برنامه Moveo-M](docs/MOVEO_EVALUATION.fa.md)
 
 ## تصمیم فعلی پروژه
 
